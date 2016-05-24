@@ -102,7 +102,7 @@ Pod::Spec.new do |s|
 
   # s.resource  = "icon.png"
   # s.resources = "Resources/*.png"
-  s.resources = "Resources/Pao.bundle"
+  s.resources = "Pao.bundle"
   # s.preserve_paths = "FilesToSave", "MoreFilesToSave"
   s.frameworks = 'UIKit','Foundation'
 

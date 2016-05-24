@@ -1,0 +1,6 @@
+framework module LYLWaterView {
+  umbrella header "LYLWaterView.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,10 @@
+PODS:
+  - LYLWaterView (1.0.1)
+
+DEPENDENCIES:
+  - LYLWaterView
+
+SPEC CHECKSUMS:
+  LYLWaterView: 4e73ac4aa0fade585810ba43f9d7dbb38ebe98de
+
+COCOAPODS: 0.39.0
